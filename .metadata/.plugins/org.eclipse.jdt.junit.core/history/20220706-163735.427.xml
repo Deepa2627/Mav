@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Test_Runner (1)" project="Cucumber_Project_Practice" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.runner.Test_Runner" time="48.518">
+    <testsuite name="Checking The Hotel Booking Functionality of an Adactin Application" time="48.518">
+      <testcase name="Login Functionality" classname="Checking The Hotel Booking Functionality of an Adactin Application" time="14.706"/>
+      <testcase name="Search Hotel Functionality" classname="Checking The Hotel Booking Functionality of an Adactin Application" time="5.359"/>
+      <testcase name="Select Hotel Functionality" classname="Checking The Hotel Booking Functionality of an Adactin Application" time="1.964"/>
+      <testcase name="Booking Hotel Functionality" classname="Checking The Hotel Booking Functionality of an Adactin Application" time="3.85"/>
+      <testcase name="Logout Functionality" classname="Checking The Hotel Booking Functionality of an Adactin Application" time="22.638"/>
+    </testsuite>
+  </testsuite>
+</testrun>
